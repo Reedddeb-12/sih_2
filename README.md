@@ -1,10 +1,10 @@
-# 🌊 OceanVision AI
+# 🌊 Jalchaksh
 
 **Advanced Underwater Image Enhancement & Threat Detection Platform**
 
 A software-only, AI-powered maritime surveillance solution designed specifically for the Indian Ocean region. OceanVision AI combines deep learning models to enhance underwater imagery and detect maritime threats in real-time.
 
-![OceanVision AI Banner](https://via.placeholder.com/1200x400/0f172a/3b82f6?text=OceanVision+AI)
+![Jalchaksh Banner](https://via.placeholder.com/1200x400/0f172a/3b82f6?text=OceanVision+AI)
 
 ---
 
